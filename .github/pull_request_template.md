@@ -1,7 +1,3 @@
-## What?
-
-What this PR aims to do
-
 ## Why?
 
 Reason for PR
@@ -18,6 +14,12 @@ What this PR changes
 
 *Optional* Anything of importance that will be useful for reviewers or future developers, if appropriate
 
+## Screenshots
+
+*Optional* Screenshots of relevant changes in UI
+
 ## Resources
 
 *Optional* Links to external/internal resources or related PR's, if required
+
+[JIRA CARD LINK]
