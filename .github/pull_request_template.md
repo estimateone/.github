@@ -1,3 +1,5 @@
+[JIRA CARD LINK]
+
 ## Why?
 
 Reason for PR
@@ -21,5 +23,3 @@ What this PR changes
 ## Resources
 
 *Optional* Links to external/internal resources or related PR's, if required
-
-[JIRA CARD LINK]
