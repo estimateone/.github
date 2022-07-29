@@ -1,6 +1,4 @@
-## What?
-
-What this PR aims to do
+[JIRA CARD LINK]
 
 ## Why?
 
@@ -17,6 +15,10 @@ What this PR changes
 ## Clarifications
 
 *Optional* Anything of importance that will be useful for reviewers or future developers, if appropriate
+
+## Screenshots
+
+*Optional* Screenshots of relevant changes in UI
 
 ## Resources
 
