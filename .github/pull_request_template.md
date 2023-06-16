@@ -1,5 +1,7 @@
 [JIRA CARD LINK]
 
+- [ ] Self review
+
 ## Why?
 
 Reason for PR
@@ -8,18 +10,24 @@ Reason for PR
 
 What this PR changes
 
+## Modules changed
+
+What are the modules changed in this PR?
+
+This the "unit" or "system-under-test" of a unit test.
+
 ## Usage
 
-*Optional* How is the thing used, if required
+[_Optional_] How is the thing used, if required
 
 ## Clarifications
 
-*Optional* Anything of importance that will be useful for reviewers or future developers, if appropriate
+[_Optional_] Anything of importance that will be useful for reviewers or future developers, if appropriate
 
 ## Screenshots
 
-*Optional* Screenshots of relevant changes in UI
+[_Optional_] Screenshots of relevant changes in UI
 
 ## Resources
 
-*Optional* Links to external/internal resources or related PR's, if required
+[_Optional_] Links to external/internal resources or related PR's, if required
