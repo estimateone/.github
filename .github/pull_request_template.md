@@ -1,7 +1,6 @@
 [JIRA CARD LINK]
 
 - [ ] Self review
-
 - [ ] I have considered the [Procedure: Considering Security as a PR Submitter](https://www.notion.so/estimateone/Procedure-Considering-Security-as-a-PR-submitter-1409a22d309a8002b037e1ce3f5fd896) and followed the steps outlined.
 
 ## Why?
